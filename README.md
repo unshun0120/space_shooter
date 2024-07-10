@@ -1,7 +1,7 @@
 # space_shooter
 此project用Unity製作一個小遊戲  
 該project參考網站 :  
-https://readandplay.pixnet.net/blog/post/197395500  
+part1 : https://readandplay.pixnet.net/blog/post/197395500  
 
 # install Unity
 install Unity Hub : https://unity.com/cn/download  
