@@ -15,6 +15,14 @@
 7. 點擊視窗左方Hierarchy的background物件->點擊左方Inspector中Additional Settings底下的Sorting Layer右邊方塊，之後點選"background"
    ![image](https://github.com/unshun0120/space_shooter/assets/79517348/f0859c38-b926-4ea3-ad6e-2c8b7e50de62)
 
+# 2. 製作飛機
+1. 原作者自己畫了一台飛機，我自己是網路上隨便找一張圖片當作飛機用，將飛機照片像素調整成 50 * 50
+2. 將飛機拖曳至Assets->從Assets處把飛機拖曳至Scene->將飛機Position調整為 X:0、Y:-3、Z:0，讓飛機位置在background中下  
+   ![image](https://github.com/unshun0120/space_shooter/assets/79517348/e6864276-918b-4b5e-a512-58548183b51d) ![image](https://github.com/unshun0120/space_shooter/assets/79517348/dd827415-0dcb-4442-9aaa-36049579be18)
+   
+
+
+
 
 
 
